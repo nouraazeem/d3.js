@@ -2,7 +2,7 @@
 Udemy D3.js Data Visualization Fundamentals
 
 Section 1 - The basics
-
+- DEMO Shapes
 Section 2 - Basic Charting
 
 Section 3 - Working with data part 1 - External sources
